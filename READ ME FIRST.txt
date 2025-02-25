@@ -1,2 +1,2 @@
-Extract Folder
-Enter 24 Hour Time (if error)
+Extract Folder from ZIP File
+Enter 24-Hour Time Clock (if error use this format 00:00 with colon symbol)
